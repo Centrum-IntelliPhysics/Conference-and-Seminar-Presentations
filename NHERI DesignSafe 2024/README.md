@@ -1,4 +1,1 @@
-To access the DeepONet code presented in the hands-on training, please visit the following links:
-1. Booklet: (Link)[https://designsafe-training.github.io/deeponet/deeponet.html]
-2. GitHub: (Link)[https://github.com/DesignSafe-Training/deeponet]
-https://designsafe-training.github.io/deeponet/deeponet.html
+To access the DeepONet code presented in the hands-on training, please have a look at the [Booklet](https://designsafe-training.github.io/deeponet/deeponet.html) as well as the [DesignSafe GitHub page](https://github.com/DesignSafe-Training/deeponet).
