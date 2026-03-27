@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Conference and Seminar Presentations"
+message: "If you use or reference these materials, please cite this repository."
+
+type: software
+
+authors:
+  - name: "Centrum IntelliPhysics"
+
+repository-code: "https://github.com/Centrum-IntelliPhysics/Conference-and-Seminar-Presentations"
+
+abstract: "This repository contains slides and presentation materials from conference talks and seminar presentations by members of the Centrum IntelliPhysics research group. The materials cover topics in scientific machine learning, computational physics, and related research areas."
+
+keywords:
+  - scientific machine learning
+  - presentations
+  - seminars
+  - conferences
+  - computational science
+
+license: Apache-2.0
+
+version: 1.0
+date-released: 2026-03-25
